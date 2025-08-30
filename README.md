@@ -1,5 +1,6 @@
 # NumPy Practice
 
+HEY!!
 This repository contains various NumPy practice code and examples that I'm working on using **Visual Studio Code**.
 
 ## 📌 About
